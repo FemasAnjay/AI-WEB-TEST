@@ -1,5 +1,5 @@
 // Masukkan API Key milikmu di sini
-const API_KEY = "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"; // Ganti dengan API key OpenAI-mu
+const API_KEY = "v"; // Ganti dengan API key OpenAI-mu
 
 // Event listener untuk tombol kirim
 document.getElementById('send-btn').addEventListener('click', sendMessage);
